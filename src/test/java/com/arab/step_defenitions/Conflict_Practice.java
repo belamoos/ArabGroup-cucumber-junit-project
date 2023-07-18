@@ -13,6 +13,7 @@ public class Conflict_Practice {
         System.out.println("hi sami ");
         System.out.println("ho");
 
+        System.out.println("Mostafa");
 
 
     }
