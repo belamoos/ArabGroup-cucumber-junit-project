@@ -7,7 +7,9 @@ public class Conflict_Practice {
 
 
         System.out.println("add some lines under me ");
+        System.out.println("thank you");
         System.out.println("Try out");
+
 
 
     }
