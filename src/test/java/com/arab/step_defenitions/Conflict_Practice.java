@@ -10,7 +10,7 @@ public class Conflict_Practice {
         System.out.println("Mostafa Wrote something");
         System.out.println("thank you");
         System.out.println("Try out");
-
+        System.out.println("hi sami ");
 
 
     }
