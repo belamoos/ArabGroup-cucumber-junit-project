@@ -7,8 +7,8 @@ public class Conflict_Practice {
 
 
         System.out.println("add some lines under me ");
-        System.out.println("Try out");
 
+        System.out.println("Try out");
 
     }
 }
